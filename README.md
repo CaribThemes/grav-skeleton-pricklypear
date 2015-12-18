@@ -9,16 +9,16 @@
 * [x] ~/composer.json
 * [ ] ~/templates/error.html.twig
 * [ ] ~/templates/home.html.twig
-* [ ] ~/templates/(...).html.twig
+* [ ] ~/templates/(..).html.twig
 * [ ] ~/templates/partials/base.html.twig
 * [ ] ~/templates/partials/metadata.html.twig
 * [ ] ~/templates/partials/footer.html.twig
 * [ ] ~/templates/partials/header.html.twig
 * [ ] ~/templates/partials/navigation.html.twig
-* [ ] ~/css/nevis.css
+* [ ] ~/css/main.css
 * [ ] ~/images/favicon.png
-* [ ] ~/js/(...).css
-* [ ] ~/fonts/(...)
+* [ ] ~/js/(..).css
+* [ ] ~/fonts/(..)
 
 ### inProgress
 
@@ -35,4 +35,3 @@
 ## Improvements
 
 * Contact form on the homePage
-
