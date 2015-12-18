@@ -1,0 +1,26 @@
+{
+    "name": "getgrav/grav-theme-pricklypear",
+    "type": "grav-theme",
+    "description": "A Theme for the Flat CMS Grav.",
+    "keywords": ["theme","grav","responsive","design"],
+    "homepage": "https://github.com/IslandThemes/grav-theme-pricklypear",
+    "license": "MIT",
+    },
+    "authors": [
+        {
+            "name": "MATsxm",
+            "email": "mat@thev3.net",
+            "homepage": "https://github.com/MATsxm"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "pricklypear",
+        "installer-paths": {
+            "user/themes/{$name}/": ["getgrav/grav-theme-pricklypear"]
+        }
+    }
+}
