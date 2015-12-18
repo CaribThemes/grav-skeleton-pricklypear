@@ -1,0 +1,23 @@
+name: Prickly Pear
+version: 1.0.0
+description: "A Theme for the Flat CMS Grav."
+icon: paw
+author:
+  name: MATsxm
+  email: mat@thev3.net
+homepage: https://github.com/IslandThemes/grav-theme-pricklypear
+demo:
+keywords: theme, responsive, html5, css3, design
+bugs: https://github.com/IslandThemes/grav-theme-pricklypear/issues
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    default_lang:
+      type: text
+      size: x-small
+      label: Default lang
+      default: 'en'
+      validate:
+        type: text
