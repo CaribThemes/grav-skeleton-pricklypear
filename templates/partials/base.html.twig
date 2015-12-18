@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ grav.language.getActive ?: theme_config.default_lang }}">
+
+<head>
+    {% block head %}
+        <meta charset="utf-8" />
+        <title>{% if header.title %}{{ header.title|e('html') }}|{% endif %}{{ site.title|e('html') }}</title>
+{# inclusion des métadonnées #}
+        {% include 'partials/metadata.html.twig' %}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.png" />
+{# inclusion des CSS #}
+    {% block stylesheets %}
+        {% do assets.addCss('theme://css/main.css') %}
+            {% if browser.getBrowser == 'msie' and browser.getVersion == 8 %}
+        {% do assets.addCss('theme://css/ie8.css') %}
+            {% endif %}
+            {% if browser.getBrowser == 'msie' and browser.getVersion == 9 %}
+        {% do assets.addCss('theme://css/ie9.css') %}
+            {% endif %}
+    {% endblock %}
+    {{ assets.css() }}
+    {% endblock head%}
+</head>
+
+<body class="{{ page.header.body_class }}">
+{# inclusion de ~partials/header.html.twig #}
+        {% block header %}
+            {% include 'partials/header.html.twig' %}
+        {% endblock %}
+{# inclusion du contenu depuis ~pages/(..).html.twig #}
+        {% block body %}
+            {% block content %}{% endblock %}
+        {% endblock %}
+{# inclusion du groupe central ~partials/(..).html.twig #}
+        {% block central %}
+            {% include 'partials/title.html.twig' %}
+            {% include 'partials/circles.html.twig' %}
+            {% include 'partials/download.html.twig' %}
+        {% endblock %}
+{# inclusion du footer ~partials/footer.html.twig #}
+        {% block footer %}
+            {% include 'partials/footer.html.twig' %}
+        {% endblock %}
+
+{# inclusion des javascripts depuis js #}
+        {% block javascripts %}
+            {% if browser.getBrowser == 'msie' and browser.getVersion == 8 %}
+                {% do assets.addJs('theme://js/ie/html5shiv.js') %}
+            {% endif %}
+            {% do assets.add('jquery',101) %}
+            {% do assets.addJs('theme://js/jquery.dropotron.min.js') %}
+            {% do assets.addJs('theme://js/jquery.scrolly.min.js') %}
+            {% do assets.addJs('theme://js/jquery.scrollgress.min.js') %}
+            {% do assets.addJs('theme://js/skel.min.js') %}
+            {% do assets.addJs('theme://js/util.js') %}
+            {% if browser.getBrowser == 'msie' and browser.getVersion == 8 %}
+                 {% do assets.addJs('theme://js/ie/respond.min.js') %}
+            {% endif %}
+            {% do assets.addJs('theme://js/main.js') %}
+        {% endblock %}
+        {{ assets.js() }}
+</body>
+</html>
