@@ -36,3 +36,10 @@
 ## Improvements
 
 * Contact form on the homePage
+* Reprendre l'image readme_1 pour un format plus pano
+* reprise favicon
+* élargir le main contain
+* icones plus foncées
+* navigation
+* switcher
+* 
