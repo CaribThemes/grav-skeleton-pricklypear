@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Join the chat at https://gitter.im/IslandThemes/grav-theme-pricklypear](https://badges.gitter.im/IslandThemes/grav-theme-pricklypear.svg)](https://gitter.im/IslandThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-![Saba](assets/readme_1.png)
+> **Prickly Pear** is a **FREE** simple single page responsive theme ported by [**IslandThemes**](https://github.com/IslandThemes) for the [**Grav**](http://getgrav.org) CMS and based on Fractal by HTML5up.
 
-> **Prickly Pear** by [**IslandThemes**](https://github.com/IslandThemes) is a light theme for [**Grav**](http://getgrav.org). 
+![Saba](assets/readme_1.png)
 
 ##### Table of Contents:
 
