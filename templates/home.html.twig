@@ -1,37 +1,3 @@
+{# page générée par ~home.md et qui va étendre ~partials/base.html.twig  #}
+
 {% extends 'partials/base.html.twig' %}
-
-{% set show_onpage_menu = header.onpage_menu == true or header.onpage_menu is null %}
-{% macro pageLinkName(text) %}{{ text|lower|replace({' ':'_'}) }}{% endmacro %}
-
-{% block content %}
-    {{ page.content }}
-    {% for module in page.collection() %}
-        {% if module.menu == 'before_article' %}
-            {{ module.content }}
-        {% endif %}
-    {% endfor %}
-
-    <article id="main">
-
-        {% if page.header.subtitle or page.header.description or page.header.icon %}
-            <header class="special container">
-                <span class="icon fa-{{ page.header.icon }}"></span>
-                <h2>{{ page.header.subtitle }}</h2>
-                <p>{{ page.header.description }}</p>
-            </header>
-        {% endif %}
-
-        {% for module in page.collection() %}
-            {% if module.menu != 'before_article' and module.menu != 'after_article' %}
-                {{ module.content }}
-            {% endif %}
-        {% endfor %}
-
-    </article>
-
-    {% for module in page.collection() %}
-        {% if module.menu == 'after_article' %}
-            {{ module.content }}
-        {% endif %}
-    {% endfor %}
-{% endblock %}
