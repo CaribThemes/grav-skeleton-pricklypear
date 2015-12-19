@@ -5,12 +5,9 @@
 {% block content %}
 	<div id="error">
 		<div>
-			<h1>{{ "ERROR_TYPE"|t }} {{ page.header.http_response_code }}
-			</h1>
-			<h2>{{ "ERROR_DESC"|t }}
-			</h2>
-            <p><a href="#">{{ "ERROR_BTN"|t }}</a>
-            </p>
+			<h1>{{ "ERROR_TYPE"|t }} {{ page.header.http_response_code }}</h1>
+			<h2>{{ "ERROR_DESC"|t }}</h2>
+      	<p><a href="#">{{ "ERROR_BTN"|t }}</a></p>
 		</div>
 	</div>
 {% endblock %}
