@@ -1,20 +1,20 @@
 {
     "name": "getgrav/grav-theme-pricklypear",
     "type": "grav-theme",
-    "description": "A Theme for the Flat CMS Grav.",
-    "keywords": ["theme","grav","responsive","design"],
+    "description": "A simple, single page responsive theme ported by IslandThemes and based on Fractal by HTML5up.",
+    "keywords": ["theme","grav","responsive","design","onepage"],
     "homepage": "https://github.com/IslandThemes/grav-theme-pricklypear",
     "license": "MIT",
     },
     "authors": [
         {
-            "name": "MATsxm",
-            "email": "mat@thev3.net",
+            "name": "MATsxm for IslandThemes",
+            "email": "mat@idimweb.com",
             "homepage": "https://github.com/MATsxm"
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.5.9",
         "composer/installers": "~1.0"
     },
     "extra": {
