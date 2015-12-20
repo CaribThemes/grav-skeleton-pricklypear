@@ -9,7 +9,6 @@
 * [x] ~composer.json
 * [x] ~images/favicon.png
 * [x] ~js/(..).css
-* [x] ~fonts/(..)
 * [x] ~assets/readme_1.png
 * [x] ~screenshot.jpg
 * [x] ~thumbnail.jpg
@@ -42,4 +41,4 @@
 * icones plus foncées
 * navigation
 * switcher
-* 
+* page d'Erreur
