@@ -31,7 +31,7 @@
 * [x] ~assets/readme_1.png
 * [ ] ~CHANGELOG.md
 * [ ] ~images/favicon.png
-* 
+ 
 ## Improvements
 
 * Contact form on the homePage
@@ -42,3 +42,4 @@
 * navigation
 * switcher
 * page d'Erreur
+* to top
