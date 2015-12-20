@@ -2,16 +2,14 @@
 
 ### toAdd
 
-* [x] ~LICENSE.md
-* [x] ~pricklypear.php
-* [x] ~pricklypear.yaml
+* [x] ~~~LICENSE.md~~
+* [x] ~~~pricklypear.php~~
+* [x] ~~~pricklypear.yaml~~
 * [x] ~blueprints.yaml
-* [x] ~composer.json
-* [x] ~images/favicon.png
-* [x] ~js/(..).css
-* [x] ~assets/readme_1.png
-* [x] ~screenshot.jpg
-* [x] ~thumbnail.jpg
+* [x] ~~~composer.json~~
+* [x] ~~~js/(..).css~~
+* [x] ~~~screenshot.jpg~~
+* [x] ~~~thumbnail.jpg~~
 * [ ] ~skeleton
 
 ### inProgress
@@ -30,8 +28,10 @@
 
 ### toUpdate
 
+* [x] ~assets/readme_1.png
 * [ ] ~CHANGELOG.md
-
+* [ ] ~images/favicon.png
+* 
 ## Improvements
 
 * Contact form on the homePage
