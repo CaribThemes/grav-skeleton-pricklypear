@@ -1,5 +1,4 @@
 {# page d'erreur qui va étendre ~partials/base.html.twig  #}
-{# todo - ajouter une image de fond + css par ST #}
 
 {% extends 'partials/base.html.twig' %}
 {% block content %}
@@ -7,7 +6,7 @@
 		<div>
 			<h1>{{ "ERROR_TYPE"|t }} {{ page.header.http_response_code }}</h1>
 			<h2>{{ "ERROR_DESC"|t }}</h2>
-      	<p><a href="#">{{ "ERROR_BTN"|t }}</a></p>
+      <p><a href="#">{{ "ERROR_BTN"|t }}</a></p>
 		</div>
 	</div>
 {% endblock %}
