@@ -44,6 +44,15 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	
+/*color class*/
+	.purple{
+		color:#5c5edc;
+	}
+	.purplebold{
+		color:#5c5edc;
+		font-weight:bold;
+	}
 
 /* Box Model */
 
