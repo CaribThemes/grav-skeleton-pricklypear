@@ -27,7 +27,7 @@
 
 ## Supported Page Templates
 * <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>home.md</code>)
-* <code>error.html.twig</code> view
+* <code>error.html.twig</code> view - __TODO__
 
 ## Installation
 Installing the **Prickly Pear** Theme can be done in one of two ways. Via GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
