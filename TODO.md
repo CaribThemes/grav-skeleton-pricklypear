@@ -11,32 +11,32 @@
 * [x] ~~~screenshot.jpg~~
 * [x] ~~~thumbnail.jpg~~
 * [x] ~~~images/favicon.png~~
+* [x] ~~~back toTop~~
+* [x] ~templates/home.html.twig
+* [x] ~languages.yaml
+* [x] ~templates/partials/base.html.twig
+* [x] ~templates/partials/metadata.html.twig
+* [x] ~templates/partials/footer.html.twig
+* [x] ~templates/partials/header.html.twig
+* [ ] ~templates/partials/navigation.html.twig
+* [x] ~css/main.css
+* [x] ~~~assets/readme_1.png~~
+* [x] ~~~images/favicon.png~~
 
 ### inProgress
 
 * [ ] ~README.md
 * [ ] ~templates/error.html.twig
-* [ ] ~languages.yaml
-* [ ] ~templates/home.html.twig
-* [ ] ~templates/(..).html.twig
-* [ ] ~templates/partials/base.html.twig
-* [ ] ~templates/partials/metadata.html.twig
-* [ ] ~templates/partials/footer.html.twig
-* [ ] ~templates/partials/header.html.twig
-* [ ] ~templates/partials/navigation.html.twig
-* [ ] ~css/main.css
 
 ### toUpdate
 
-* [x] ~assets/readme_1.png
 * [ ] ~CHANGELOG.md
-* [x] ~images/favicon.png
- 
+
 ## Improvements
 
-* Contact form on the homePage
-* navigation
-* switcher
+* Error page
+* Contact form
+* Navigation
+* Switcher
 * Skeleton
 * page d'Erreur
-* to top
