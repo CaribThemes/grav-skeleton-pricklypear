@@ -2771,7 +2771,7 @@
 	}
 
 		.spotlight .image {
-			width: 30%;
+			width: 25%;
 			border-radius: 100%;
 			margin: 0 3em 0 0;
 			display: block;
@@ -2784,7 +2784,7 @@
 			}
 
 		.spotlight .content {
-			width: 70%;
+			width: 75%;
 		}
 
 			.spotlight .content > :last-child {
