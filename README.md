@@ -9,11 +9,11 @@
 ##### Table of Contents:
 
 * [Features](#features)
-* [Views](#twig-views)
+* [Views](#SupportedPageTemplates)
 * [Installation](#installation)
 * [Updating](#updating)
 * [Setup](#setup)
-* [Support & Bugs](#Support & Bugs)
+* [Support & Bugs](#Support&Bugs)
 * [Credits](#credits)
 
 ## Features
@@ -21,6 +21,7 @@
 * HTML5 and CSS3
 * Fully Responsive
 * Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
+* Back to top
 * Contact Form - __ToDo__
 * Navigation - __ToDo__
 
@@ -93,6 +94,7 @@ For contact form configuration instructions please refer to [official documentat
 * [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/IslandThemes/grav-theme-saba/master/LICENSE.md)
 * Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under [:beer:ware](https://en.wikipedia.org/wiki/Beerware)
 * Inspired by the template Fractal by [HTML5 up](http://html5up.net/)
+* [Back To Top](https://github.com/CodyHouse/back-to-top) feature by [CodyHouse](https://github.com/CodyHouse)
 
 >> __DISCLAIMER__
 
