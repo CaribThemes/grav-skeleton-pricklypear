@@ -13,7 +13,7 @@
 * [Installation](#installation)
 * [Updating](#updating)
 * [Setup](#setup)
-* [Support & Bugs](#Support&Bugs)
+* [Support & Bugs](#Support--Bugs)
 * [Credits](#credits)
 
 ## Features
