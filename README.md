@@ -13,22 +13,25 @@
 * [Installation](#installation)
 * [Updating](#updating)
 * [Setup](#setup)
+* [Support & Bugs](#Support & Bugs)
 * [Credits](#credits)
 
 ## Features
+* OnePage template
 * HTML5 and CSS3
 * Fully Responsive
-* Fontawesome icon support 4.5.0 [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
+* Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
+* Contact Form - __ToDo__
+* Navigation - __ToDo__
 
 ## Supported Page Templates
-* Default view template
-* Error view template
-* Langswitcher partial view within navigation* - TODO
+* <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>home.md</code>)
+* <code>error.html.twig</code> view
 
 ## Installation
 Installing the **Prickly Pear** Theme can be done in one of two ways. Via GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
 
-#### GPM Installation (Preferred)
+#### GPM Installation
 
 The simplest way to install this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line). From the root of your Grav install type:
 
@@ -43,7 +46,7 @@ To install this theme, just download the zip version of this repository and unzi
 You should now have all the theme files under
 
     /your/site/grav/user/themes/pricklypear
-	
+
 >> NOTE: This theme is a modular component for Grav which requires the [Grav](http://github.com/getgrav/grav), [Error](https://github.com/getgrav/grav-theme-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins.
 
 ## Updating
@@ -79,14 +82,20 @@ If you want to set Saba as the default theme, you can do so by following these s
 
 Once this is done, you should be able to see the new theme on the frontend. Keep in mind any customizations made to the previous theme will not be reflected as all of the theme and templating information is now being pulled from the **pricklypear** folder.
 
-#### Contact Form Configuration
-For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.
+<!--#### Contact Form Configuration
+For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.-->
 
-If you find bugs in the theme report [here](https://github.com/IslandThemes/grav-theme-pricklypear/issues)
+## Support & Bugs
+* If you need a support please go to the dedicated [![Join the chat at https://gitter.im/IslandThemes/grav-theme-pricklypear](https://badges.gitter.im/IslandThemes/grav-theme-pricklypear.svg)](https://gitter.im/IslandThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* If you find bugs, please report them on [here](https://github.com/IslandThemes/grav-theme-pricklypear/issues)
 
 ## Credits
 * [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/IslandThemes/grav-theme-saba/master/LICENSE.md)
-* Photos by Marc Antoine Thevenet ©[IDIM<em>web</em>.com](http://idimweb.com)
-* Inspired by 
+* Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under [:beer:ware](https://en.wikipedia.org/wiki/Beerware)
+* Inspired by the template Fractal by [HTML5 up](http://html5up.net/)
 
->> [IslandThemes](https://github.com/IslandThemes) proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
+>> __DISCLAIMER__
+
+>>Note that @Sandra97 has never been involved in the CSS excepted for having killed few _!important;_ :stuck_out_tongue:
+
+[IslandThemes](https://github.com/IslandThemes) is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
