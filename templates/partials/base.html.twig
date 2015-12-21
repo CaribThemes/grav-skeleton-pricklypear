@@ -49,6 +49,8 @@
         {% do assets.addJs('theme://js/jquery.scrollgress.min.js') %}
         {% do assets.addJs('theme://js/skel.min.js') %}
         {% do assets.addJs('theme://js/util.js') %}
+        {% do assets.addJs('theme://js/totop/main.js') %}
+		    {% do assets.addJs('theme://js/totop/modernizr.js') %}
       {% if browser.getBrowser == 'msie' and browser.getVersion == 8 %}
         {% do assets.addJs('theme://js/ie/respond.min.js') %}
       {% endif %}
