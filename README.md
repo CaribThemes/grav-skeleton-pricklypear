@@ -9,11 +9,11 @@
 ##### Table of Contents:
 
 * [Features](#features)
-* [Views](#SupportedPageTemplates)
+* [Views](#supported-page-templates)
 * [Installation](#installation)
 * [Updating](#updating)
 * [Setup](#setup)
-* [Support & Bugs](#Support--Bugs)
+* [Support & Bugs](#support--bugs)
 * [Credits](#credits)
 
 ## Features
