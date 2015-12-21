@@ -10,7 +10,7 @@
 * [x] ~~~js/(..).css~~
 * [x] ~~~screenshot.jpg~~
 * [x] ~~~thumbnail.jpg~~
-* [ ] ~skeleton
+* [x] ~~~images/favicon.png~~
 
 ### inProgress
 
@@ -30,16 +30,13 @@
 
 * [x] ~assets/readme_1.png
 * [ ] ~CHANGELOG.md
-* [ ] ~images/favicon.png
+* [x] ~images/favicon.png
  
 ## Improvements
 
 * Contact form on the homePage
-* Reprendre l'image readme_1 pour un format plus pano
-* reprise favicon
-* élargir le main contain
-* icones plus foncées
 * navigation
 * switcher
+* Skeleton
 * page d'Erreur
 * to top
