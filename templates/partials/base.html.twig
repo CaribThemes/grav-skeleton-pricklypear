@@ -27,6 +27,10 @@
     {% block header %}
       {% include 'partials/header.html.twig' %}
     {% endblock %}
+{# inclusion du contenu depuis ~/pages/(...).html.twig #}
+    {% block body %}
+        {% block content %}{% endblock %}
+    {% endblock %}
 {# inclusion du groupe central ~partials/(..).html.twig #}
     {% block central %}
       {% include 'partials/title.html.twig' %}
@@ -54,7 +58,7 @@
       {% if browser.getBrowser == 'msie' and browser.getVersion == 8 %}
         {% do assets.addJs('theme://js/ie/respond.min.js') %}
       {% endif %}
-      {% do assets.addJs('theme://js/main.js') %}
+      	{% do assets.addJs('theme://js/main.js') %}
     {% endblock %}
     {{ assets.js() }}
   </body>
