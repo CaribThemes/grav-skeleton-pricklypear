@@ -6,6 +6,7 @@
 * [x] ~css/main.css
 * [ ] ~images/favicon.png
 * [x] ~images/(..).jpg
+* [ ] ~images/screen.jpg
 * [x] ~js/(..).js
 * [x] ~js/totop/(..).js
 * [x] ~templates/home.html.twig
