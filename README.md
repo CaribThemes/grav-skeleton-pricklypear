@@ -1,8 +1,8 @@
 # Prickly Pear Theme for the CMS Grav
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Join the chat at https://gitter.im/IslandThemes/grav-theme-pricklypear](https://badges.gitter.im/IslandThemes/grav-theme-pricklypear.svg)](https://gitter.im/IslandThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> **Prickly Pear** is a **FREE** simple single page responsive theme ported by [**IslandThemes**](https://github.com/IslandThemes) for the [**Grav**](http://getgrav.org) CMS and based on Fractal by HTML5up.
+> **Prickly Pear** is a **FREE** simple single page responsive theme ported by [**CaribThemes**](https://github.com/CaribThemes) for the [**Grav**](http://getgrav.org) CMS and based on Fractal by HTML5up.
 
 ![Saba](assets/readme_1.png)
 
@@ -42,7 +42,7 @@ This will install the Saba Theme into your `/user/themes` directory within Grav.
 
 #### Manual Installation
 
-To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `pricklypear`. You can find these files on [GitHub](https://github.com/IslandThemes/grav-theme-pricklypear).
+To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `pricklypear`. You can find these files on [GitHub](https://github.com/CaribThemes/grav-theme-pricklypear).
 
 You should now have all the theme files under
 
@@ -66,7 +66,7 @@ This command will check your Grav install to see if your Saba Theme is due for a
 Manually updating Agency is pretty simple. Here is what you will need to do to get this done:
 
 * Delete the `your/site/user/themes/pricklypear` directory.
-* Download the new version of the Bootstrap Theme on [GitHub](https://github.com/IslandThemes/grav-theme-pricklypear).
+* Download the new version of the Bootstrap Theme on [GitHub](https://github.com/CaribThemes/grav-theme-pricklypear).
 * Unzip the zip file in `your/site/user/themes` and rename the resulting folder to `pricklypear`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
@@ -87,12 +87,12 @@ Once this is done, you should be able to see the new theme on the frontend. Keep
 For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.-->
 
 ## Support & Bugs
-* If you need a support please go to the dedicated [![Join the chat at https://gitter.im/IslandThemes/grav-theme-pricklypear](https://badges.gitter.im/IslandThemes/grav-theme-pricklypear.svg)](https://gitter.im/IslandThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* If you find bugs, please report them on [here](https://github.com/IslandThemes/grav-theme-pricklypear/issues)
+* If you need a support please go to the dedicated [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* If you find bugs, please report them on [here](https://github.com/CaribThemes/grav-theme-pricklypear/issues)
 
 ## Credits
-* [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/IslandThemes/grav-theme-saba/master/LICENSE.md)
-* Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under [:beer:ware](https://en.wikipedia.org/wiki/Beerware)
+* [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/CaribThemes/grav-theme-saba/master/LICENSE.md)
+* Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under __WTFPL__ (see LICENSE)
 * Inspired by the template Fractal by [HTML5 up](http://html5up.net/)
 * [Back To Top](https://github.com/CodyHouse/back-to-top) feature by [CodyHouse](https://github.com/CodyHouse)
 
@@ -100,4 +100,4 @@ For contact form configuration instructions please refer to [official documentat
 
 >>Note that @Sandra97 has never been involved in the CSS excepted for having killed few _!important;_ :stuck_out_tongue:
 
-[IslandThemes](https://github.com/IslandThemes) is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
+[CaribThemes](https://caribthemes.com) is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
