@@ -12,12 +12,6 @@
 {# inclusion des CSS #}
       {% block stylesheets %}
         {% do assets.addCss('theme://css/main.css') %}
-          {% if browser.getBrowser == 'msie' and browser.getVersion == 8 %}
-            {% do assets.addCss('theme://css/ie8.css') %}
-          {% endif %}
-          {% if browser.getBrowser == 'msie' and browser.getVersion == 9 %}
-            {% do assets.addCss('theme://css/ie9.css') %}
-          {% endif %}
       {% endblock %}
       {{ assets.css() }}
     {% endblock head%}
