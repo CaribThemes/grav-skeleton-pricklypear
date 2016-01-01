@@ -1,25 +1,25 @@
 en:
 # button
-    BTN_DOWNLOAD: '<a href="https://github.com/IslandThemes/grav-theme-pricklypear" target="_blank" title="Download PricklyPear on GitHub" class="button special icon fa-download">Download</a>'
+    BTN_DOWNLOAD: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Download PricklyPear on GitHub" class="button special icon fa-download">Download</a>'
 # Footer ~/user/themes/pircklypear/templates/partials/footer.html.twig
-    FOOTER_COPYRIGHT: '&copy; 2016 ported with <i class="fa fa-heart"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="https://github.com/IslandThemes" target="_blank" title="Themes for Grav CMS">Island Themes</a> and based on Fractal by <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.'
+    FOOTER_COPYRIGHT: ported with <i class="fa fa-heart"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="https://github.com/CaribThemes" target="_blank" title="Themes for Grav CMS">Carib Themes</a> and based on Fractal by <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.
 # Error ~/user/themes/pircklypear/templates/error.html.twig
-    ERROR_TYPE: 'Error'
-    ERROR_DESC: 'Oops! - It seems you are lost.<br/>It''s time to take of your shoes and going back to the beach...'
-    ERROR_BTN: 'back to the beach!'
+    ERROR_TYPE: Error
+    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
+    ERROR_BTN: back to the beach!
 # Miscellaneous
-    TITLE: 'Prickly Pear'
-    DESCRIPTION: 'An IslandThemes Theme for The Flat CMS Grav.'
+    TITLE: Prickly Pear
+    DESCRIPTION: A Carib Theme for The Flat CMS Grav.
 
 fr:
 # bouton
-    BTN_DOWNLOAD: '<a href="https://github.com/IslandThemes/grav-theme-pricklypear" target="_blank" title="Télécharger PricklyPear depuis GitHub" class="button special icon fa-download">Télécharger</a>'
+    BTN_DOWNLOAD: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Télécharger PricklyPear depuis GitHub" class="button special icon fa-download">Télécharger</a>'
 # Footer ~/user/themes/pircklypear/templates/partials/footer.html.twig
-    FOOTER_COPYRIGHT: '&copy; 2016 adapté avec <i class="fa fa-heart"></i> pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="https://github.com/IslandThemes" target="_blank" title="Templates pour Grav">Island Themes</a> et basé sur Fractal par <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.'
+    FOOTER_COPYRIGHT: '&copy; 2016 adapté avec <i class="fa fa-heart"></i> pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="https://github.com/CaribThemes" target="_blank" title="Templates pour Grav">Carib Themes</a> et basé sur Fractal par <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.'
 # Error ~/user/themes/pircklypear/templates/error.html.twig
     ERROR_TYPE: 'Erreur'
     ERROR_DESC: 'Oups ! - Il semble bien que vous vous soyez égaré.<br/>Il est temps d''enlever vos chaussures et de retourner à la plage...'
     ERROR_BTN: 'retournez à la plage !'
 # Miscellaneous
     TITLE: 'Prickly Pear'
-    DESCRIPTION: 'Un thème IslandThemes pour le Flat CMS Grav.'
+    DESCRIPTION: 'Un thème CaribThemes pour le Flat CMS Grav.'
