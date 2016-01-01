@@ -5,7 +5,7 @@
     "keywords": ["theme","grav","responsive","design","onepage"],
     "homepage": "https://github.com/CaribThemes/grav-theme-pricklypear",
     "license": "MIT",
-    },
+},
     "authors": [
         {
             "name": "MATsxm for CaribThemes",
@@ -23,4 +23,3 @@
             "user/themes/{$name}/": ["getgrav/grav-theme-pricklypear"]
         }
     }
-}
