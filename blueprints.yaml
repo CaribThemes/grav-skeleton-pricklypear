@@ -1,14 +1,14 @@
 name: Prickly Pear
 version: 1.0.0
-description: "A FREE and simple single page IslandThemes based on Fractal by HTML5up."
+description: "A FREE and simple single page CaribThemes based on Fractal by HTML5up."
 icon: paw
 author:
-  name: MATsxm for IslandThemes
+  name: MATsxm for CaribThemes
   email: mat@idimweb.com
-homepage: https://github.com/IslandThemes/grav-theme-pricklypear
+homepage: https://github.com/CaribThemes/grav-theme-pricklypear
 demo:
 keywords: theme, responsive, html5, css3, design, onepage
-bugs: https://github.com/IslandThemes/grav-theme-pricklypear/issues
+bugs: https://github.com/CaribThemes/grav-theme-pricklypear/issues
 license: MIT
 
 form:
