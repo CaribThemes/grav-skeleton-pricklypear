@@ -19,14 +19,14 @@
 * [x] ~templates/partials/title.html.twig
 * [x] ~blueprints.yaml
 * [x] ~CHANGELOG.md
-* [x] ~~~composer.json~~
+* [x] ~composer.json
 * [x] ~languages.yaml
-* [x] ~~~LICENSE.md~~
-* [x] ~~~pricklypear.php~~
-* [x] ~~~pricklypear.yaml~~
+* [x] ~LICENSE.md
+* [x] ~pricklypear.php
+* [x] ~pricklypear.yaml
 * [x] ~README.md
-* [x] ~~~screenshot.jpg~~
-* [x] ~~~thumbnail.jpg~~
+* [x] ~screenshot.jpg
+* [x] ~thumbnail.jpg
 
 * [x] ~~back toTop~~
 * [ ] switcher - 1.1.0
