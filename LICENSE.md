@@ -11,7 +11,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ### Credits photos
 [Marc Antoine Thevenet _MATsxm_](mailto:mat@thev3.net) for [IDIMweb.com](http://idimweb.com) licensed under __WTFPL__
 
-## The WTFPL License:
+## The WTFPL License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE<br>
 Version 2, December 2004
 
