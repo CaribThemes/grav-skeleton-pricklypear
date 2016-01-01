@@ -1,14 +1,14 @@
 {
     "name": "getgrav/grav-theme-pricklypear",
     "type": "grav-theme",
-    "description": "A simple, single page responsive theme ported by IslandThemes and based on Fractal by HTML5up.",
+    "description": "A simple, single page responsive theme ported by CaribThemes and based on Fractal by HTML5up.",
     "keywords": ["theme","grav","responsive","design","onepage"],
-    "homepage": "https://github.com/IslandThemes/grav-theme-pricklypear",
+    "homepage": "https://github.com/CaribThemes/grav-theme-pricklypear",
     "license": "MIT",
     },
     "authors": [
         {
-            "name": "MATsxm for IslandThemes",
+            "name": "MATsxm for CaribThemes",
             "email": "mat@idimweb.com",
             "homepage": "https://github.com/MATsxm"
         }
