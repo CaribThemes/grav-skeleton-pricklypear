@@ -3,7 +3,7 @@
 
 /*
 	Prickly Pear by CaribThemes
-  Based on Fractal by HTML5 UP
+	Based on Fractal by HTML5 UP
 */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -55,7 +55,6 @@
 	}
 
 /* Box Model */
-
 	*, *:before, *:after {
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
@@ -63,7 +62,6 @@
 	}
 
 /* Grid */
-
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
@@ -1611,7 +1609,6 @@
 	}
 
 /* Basic */
-
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -1644,7 +1641,6 @@
 		}
 
 /* Type */
-
 	body {
 		color: #999999;
 	}
@@ -1877,7 +1873,6 @@
 	}
 
 /* Box */
-
 	.box {
 		border-radius: 6px;
 		border: solid 1px #e6e6e6;
@@ -1898,7 +1893,6 @@
 		}
 
 /* Button */
-
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -2048,7 +2042,6 @@
 			}
 
 /* Form */
-
 	form {
 		margin: 0 0 2em 0;
 	}
@@ -2289,7 +2282,6 @@
 	}
 
 /* Icon */
-
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -2314,7 +2306,6 @@
 	}
 
 /* Image */
-
 	.image {
 		border-radius: 6px;
 		border: 0;
@@ -2452,7 +2443,6 @@
 			}
 
 /* List */
-
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
@@ -2702,7 +2692,6 @@
 	}
 
 /* Section/Article */
-
 	section.special, article.special {
 		text-align: center;
 	}
@@ -2766,7 +2755,6 @@
 		}
 
 /* Spotlight */
-
 	.spotlight {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -2850,7 +2838,6 @@
 	}
 
 /* Table */
-
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
@@ -2941,7 +2928,6 @@
 	}
 
 /* Wrapper */
-
 	.wrapper {
 		padding: 4.5em 0 2.5em 0 ;
 		background-color: #ffffff;
@@ -3641,7 +3627,6 @@
 	}
 
 /* Header */
-
 	#header {
 		background-color: #5c5edc;
 		color: #c9c7e4;
@@ -4120,7 +4105,6 @@
 
 
 /* Footer */
-
 	#footer {
 		background-color: #f7f7f7;
 		color: #999999;
