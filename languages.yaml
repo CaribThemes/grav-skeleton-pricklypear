@@ -1,25 +1,37 @@
 en:
+# mod_ header
+    HEADER_TITLE: 'Prickly Pear'
+    HEADER_DESC: 'Just a responsive single page template<br />brought to you by <a href="https://github.com/CaribThemes" target="_blank">Carib Themes</a>'
+# mod_ title
+    TITLE_DESC: '<h2>The Prickly Pear Cays, are a small pair of uninhabited islands<br> in the Leeward Islands of the Caribbean.</h2><p>Prickly Pear were classified as wildlands and are one of six marine protected areas of Anguilla.</p>'
+# mod_ download
+    DOWNLOAD_TITLE: '<h2>Prickly Pear by Carib Themes</h2>'
+    DOWNLOAD_DESC: '<p>Prickly Pear is a FREE responsive, single page theme ported on Grav by Carib Themes<br />and inspired by Fractal Template by HTML5 UP.</p>'
+# part_ footer
+    FOOTER_COPYRIGHT: ported with <i class="fa fa-heart"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="https://github.com/CaribThemes" target="_blank" title="Themes for Grav CMS">Carib Themes</a> and inspired by Fractal by <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.
 # button
     BTN_DOWNLOAD: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Download PricklyPear on GitHub" class="button special icon fa-download">Download</a>'
-# Footer ~/user/themes/pircklypear/templates/partials/footer.html.twig
-    FOOTER_COPYRIGHT: ported with <i class="fa fa-heart"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="https://github.com/CaribThemes" target="_blank" title="Themes for Grav CMS">Carib Themes</a> and based on Fractal by <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.
-# Error ~/user/themes/pircklypear/templates/error.html.twig
+    BTN_CARIB: '<a href="https://github.com/CaribThemes" target="_blank" title="CaribThemes on GitHub" class="button">Carib Themes</a>'
+# Error
     ERROR_TYPE: Error
     ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
     ERROR_BTN: back to the beach!
-# Misc
-    TITLE: Prickly Pear
-    DESCRIPTION: A Carib Theme for The Flat CMS Grav.
 
 fr:
-# bouton
-    BTN_DOWNLOAD: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Télécharger PricklyPear depuis GitHub" class="button special icon fa-download">Télécharger</a>'
-# Footer ~/user/themes/pircklypear/templates/partials/footer.html.twig
-    FOOTER_COPYRIGHT: adapté avec <i class="fa fa-heart"></i> pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="https://github.com/CaribThemes" target="_blank" title="Templates pour Grav">Carib Themes</a> et inspiré par Fractal par <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.
-# Error ~/user/themes/pircklypear/templates/error.html.twig
-    ERROR_TYPE: Erreur
-    ERROR_DESC: Oups ! - Il semble bien que vous vous soyez égaré.<br/>Il est temps d'enlever vos chaussures et de retourner à la plage...
-    ERROR_BTN: retourner à la plage !
-# Misc
-    TITLE: Prickly Pear
-    DESCRIPTION: Un thème par CaribThemes pour le CMS sans base de données Grav.
+# mod_ header
+    HEADER_TITLE: Prickly Pear
+    HEADER_DESC: 'Un simple template One Page responsive<br />qui vous est offert par <a href="https://github.com/CaribThemes" target="_blank">Carib Themes</a>'
+# mod_ title
+    TITLE_DESC: '<h2>Les Prickly Pear Cays, sont une paire de petites îles<br> des Petites Antilles dans la Caraïbe.</h2><p>Prickly Pear a été classé comme île sauvage et est une des 6 zones de protection maritime d''Anguilla.</p>'
+# mod_ download
+    DOWNLOAD_TITLE: '<h2>Prickly Pear by Carib Themes</h2>'
+    DOWNLOAD_DESC: '<p>Prickly Pear is a FREE responsive, single page theme ported on Grav by Carib Themes<br />and inspired by Fractal Template by HTML5 UP.</p>'
+# part_ footer
+    FOOTER_COPYRIGHT: ported with <i class="fa fa-heart"></i> for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="https://github.com/CaribThemes" target="_blank" title="Themes for Grav CMS">Carib Themes</a> and inspired by Fractal by <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.
+# button
+    BTN_DOWNLOAD: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Download PricklyPear on GitHub" class="button special icon fa-download">Download</a>'
+    BTN_CARIB: '<a href="https://github.com/CaribThemes" target="_blank" title="CaribThemes on GitHub" class="button">Carib Themes</a>'
+# Error
+    ERROR_TYPE: Error
+    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
+    ERROR_BTN: back to the beach!

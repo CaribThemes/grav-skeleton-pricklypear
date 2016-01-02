@@ -5,6 +5,7 @@ icon: paw
 author:
   name: MATsxm for CaribThemes
   email: mat@idimweb.com
+  url: http://idimweb.com
 homepage: https://github.com/CaribThemes/grav-theme-pricklypear
 demo:
 keywords: theme, responsive, html5, css3, design, onepage
@@ -14,10 +15,13 @@ license: MIT
 form:
   validation: loose
   fields:
-    default_lang:
-      type: text
-      size: x-small
-      label: Default lang
-      default: 'en'
-      validate:
-        type: text
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in navbar
+        highlight: 1
+        default: 0
+        options:
+          1: Enabled
+          0: Disabled
+        validate:
+          type: bool

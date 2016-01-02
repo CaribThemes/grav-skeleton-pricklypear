@@ -22,8 +22,8 @@
 * Fully Responsive
 * Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
 * Back to top
+* Menu - __ToDo__
 * Contact Form - __ToDo__
-* Navigation - __ToDo__
 
 ## Supported Page Templates
 * <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>home.md</code>)
