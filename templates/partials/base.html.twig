@@ -16,22 +16,13 @@
 	{% endblock head%}
 </head>
 <body class="{{ page.header.body_class }}">
-	{% block header %}
-		{% include 'partials/header.html.twig' %}
-	{% endblock %}
-{# inclusion du contenu depuis ~/pages/(...).html.twig #}
 	{% block body %}
 		{% block content %}{% endblock %}
-	{% endblock %}
-	{% block central %}
-		{% include 'partials/title.html.twig' %}
-		{% include 'partials/circles.html.twig' %}
-		{% include 'partials/download.html.twig' %}
 	{% endblock %}
 	{% block footer %}
 		{% include 'partials/footer.html.twig' %}
 	{% endblock %}
-{# inclusion des javascripts depuis js #}
+
 	{% block javascripts %}
 		{% do assets.add('jquery',101) %}
 		{% do assets.addJs('theme://js/jquery.dropotron.min.js') %}
