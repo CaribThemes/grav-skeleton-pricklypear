@@ -22,11 +22,11 @@
 * Fully Responsive
 * Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
 * Back to top
-* Menu - __ToDo__
+* Menu - __IN PROGRESS__
 * Contact Form - __ToDo__
 
 ## Supported Page Templates
-* <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>home.md</code>)
+* <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>modular.md</code>)
 * <code>error.html.twig</code> view - __TODO__
 
 ## Installation
@@ -100,4 +100,4 @@ For contact form configuration instructions please refer to [official documentat
 
 >>Note that @Sandra97 has never been involved in the CSS excepted for having killed few _!important;_ :stuck_out_tongue:
 
-[CaribThemes](https://caribthemes.com) is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
+[CaribThemes](https://caribthemes.io) is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
