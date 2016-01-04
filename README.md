@@ -22,12 +22,12 @@
 * Fully Responsive
 * Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
 * Back to top
-* Menu - __IN PROGRESS__
-* Contact Form - __ToDo__
+* Menu - __IN PROGRESS__ (v1.0.0)
+* Contact Form - __ToDo__ (v1.0.1)
 
 ## Supported Page Templates
 * <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>modular.md</code>)
-* <code>error.html.twig</code> view - __TODO__
+* <code>error.html.twig</code> view -
 
 ## Installation
 Installing the **Prickly Pear** Theme can be done in one of two ways. Via GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
