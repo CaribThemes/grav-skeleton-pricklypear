@@ -4,13 +4,13 @@
 
 * [x] ~assets/readme_1.png
 * [x] ~css/main.css
-* [ ] ~images/favicon.png
+* [x] ~images/favicon.png
 * [x] ~images/(..).jpg
-* [ ] ~images/screen.jpg
+* [x] ~images/screen.jpg
 * [x] ~js/(..).js
 * [x] ~js/totop/(..).js
 * [x] ~templates/home.html.twig
-* [ ] ~templates/error.html.twig
+* [x] ~templates/error.html.twig
 * [x] ~templates/partials/base.html.twig
 * [x] ~templates/partials/circles.html.twig
 * [x] ~templates/partials/download.html.twig
@@ -31,9 +31,10 @@
 
 * [x] ~~back toTop~~
 * [ ] switcher - 1.1.0
-* [ ] navigation - 1.1.0
 
 ### inProgress
+
+* [ ] navigation - 1.1.0
 
 ### toUpdate
 
