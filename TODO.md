@@ -12,7 +12,7 @@
 * [x] ~templates/home.html.twig
 * [x] ~templates/error.html.twig
 * [x] ~templates/partials/base.html.twig
-* [x] ~templates/partials/circles.html.twig
+* [x] ~templates/partials/main.html.twig
 * [x] ~templates/partials/download.html.twig
 * [x] ~templates/partials/footer.html.twig
 * [x] ~templates/partials/header.html.twig
@@ -30,18 +30,15 @@
 * [x] ~thumbnail.jpg
 
 * [x] ~~back toTop~~
+* [x] ~~navigation~~
 * [ ] switcher - 1.1.0
 
 ### inProgress
 
-* [ ] navigation - 1.1.0
-
 ### toUpdate
 
 ## Improvements
-
 - 1.1.0
     - Contact form
-    - Navigation
     - Switcher
     - Skeleton
