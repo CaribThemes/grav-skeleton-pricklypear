@@ -18,10 +18,9 @@
 	{% endblock head%}
 </head>
 <body class="{{ page.header.body_class }}">
-{# partie menu #}
-{% block header_navigation %}
-{% include 'partials/navigation.html.twig' %}
-{% endblock %}
+	{% block header_navigation %}
+		{% include 'partials/navigation.html.twig' %}
+	{% endblock %}
 	{% block body %}
 		{% block content %}{% endblock %}
 	{% endblock %}
@@ -38,13 +37,11 @@
 		{% do assets.addJs('theme://js/util.js') %}
 		{% do assets.addJs('theme://js/totop/main.js') %}
 		{% do assets.addJs('theme://js/totop/modernizr.js') %}
-    
-{# partie menu #}
-    {% do assets.addJs('theme://js/menu/agency.js') %}
-    {% do assets.addJs('theme://js/menu/bootstrap.js') %}
-    {% do assets.addJs('theme://js/menu/cbpAnimatedHeader.js') %}
-    {% do assets.addJs('theme://js/menu/classie.js') %}
-    {% do assets.addJs('theme://js/menu/jquery.easing.min.js') %}
+		{% do assets.addJs('theme://js/menu/agency.js') %}
+		{% do assets.addJs('theme://js/menu/bootstrap.js') %}
+		{% do assets.addJs('theme://js/menu/cbpAnimatedHeader.js') %}
+		{% do assets.addJs('theme://js/menu/classie.js') %}
+		{% do assets.addJs('theme://js/menu/jquery.easing.min.js') %}
 		{% do assets.addJs('theme://js/main.js') %}
 	{% endblock %}
 	{{ assets.js() }}
