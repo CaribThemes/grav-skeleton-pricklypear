@@ -18,11 +18,11 @@
 
 ## Features
 * OnePage template
-* HTML5 and CSS3
 * Fully Responsive
+* Custom collapsing menu
+* HTML5 and CSS3
 * Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
 * Back to top
-* Menu - __IN PROGRESS__ (v1.0.0)
 * Contact Form - __ToDo__ (v1.0.1)
 
 ## Supported Page Templates
@@ -36,7 +36,7 @@ Installing the **Prickly Pear** Theme can be done in one of two ways. Via GPM (G
 
 The simplest way to install this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line). From the root of your Grav install type:
 
-    bin/gpm install saba
+    bin/gpm install pricklypear
 
 This will install the Saba Theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/pricklypear`
 
@@ -100,4 +100,4 @@ For contact form configuration instructions please refer to [official documentat
 
 >>Note that @Sandra97 has never been involved in the CSS excepted for having killed few _!important;_ :stuck_out_tongue:
 
-[CaribThemes](https://caribthemes.io) is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
+[CaribThemes](https://caribthemes.io) free web ressources is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
