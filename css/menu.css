@@ -78,10 +78,10 @@ Menu
     box-shadow: none;
   }
   .navbar-collapse.collapse {
-    display: block !important;
-    height: auto !important;
+    display: block;
+    height: auto;
     padding-bottom: 0;
-    overflow: visible !important;
+    overflow: visible;
   }
 }
 
@@ -126,8 +126,8 @@ Menu
 
     .navbar-toggle {
         position: relative;
-        float: right;
-        margin-right: 15px;
+        float: left;
+        margin-left: 15px;
         padding: 9px 10px;
         margin-top: 13px;
         margin-bottom: 13px;
@@ -179,10 +179,7 @@ Menu
 
 @media (min-width: 768px) {
     .navbar-left {
-        float: left !important;
-    }
-    .navbar-right {
-        float: right !important;
+        float: left;
     }
 }
 
@@ -198,8 +195,7 @@ Menu
 }
 
     .navbar-default {
-        background-color: black;
-        border-color: transparent; 
+        background-color: #5c5edc;
     }
         .navbar-default .navbar-brand {
             color: white; }
@@ -209,13 +205,16 @@ Menu
         .navbar-default .navbar-text {
             color: white; }
         .navbar-default .navbar-nav > li > a {
-            color: white; }
+			border-bottom: medium none;
+			font-weight: bold;
+			text-transform: uppercase;
+			color:white;}
         .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-            color: MediumSlateBlue;
+            color: rgba(255,255,255,0.8);
             background-color: transparent; }
         .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
             color: white;
-            background-color: #1a242f; }
+            background-color: #565ba0; }
         .navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus {
             color: white;
             background-color: transparent; }
@@ -230,6 +229,9 @@ Menu
         .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
             background-color: #1a242f;
             color: white; }
+		.navbar-default .navbar-nav > .active > a {
+			background-color: #565ba0;}	
+			
 
 .clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical > .btn-group:before, .btn-group-vertical > .btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
         content: " ";
@@ -259,7 +261,7 @@ Menu
   }
   .navbar-default.navbar-shrink {
     padding: 10px 0;
-    background-color: #222;
+    background-color: #5c5edc;
   }
   .navbar-default.navbar-shrink .navbar-brand {
     font-size: 1.5em;
