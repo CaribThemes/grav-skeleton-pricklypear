@@ -1,5 +1,11 @@
-# v1.0.0
-## 01/01/2016
+# v1.0.1
+## 06/01/2016
 
 1. [](#new)
-    * ChangeLog started...
+    * Addition of Demo Sample data.
+
+# v1.0.0
+## 05/01/2016
+
+1. [](#new)
+    * Initial release.
