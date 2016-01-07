@@ -1,0 +1,47 @@
+title: 'Prickly Pear'
+author:
+  name: MATsxm
+  email: contact@caribthemes.io
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'CaribThemes by IDIMweb.com'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects:
+  /redirect-test: /
+  '/old/(.*)': /new/$1
+routes:
+  /something/else: /blog/sample-3
+  '/new/(.*)': /blog/$1
+blog:
+  route: /blog
+  
+# Site settings
+title: CaribThemes
+email: contact@caribthemes.io
+description: 'Fabulous FREE Theme for your Grav website.'
+
+# Anchors Menu
+links:
+  - title: Home
+    url: '#title'
+  - title: Information
+    url: '#main'
+  - title: Download
+    url: '#download'   
+
+# Social networks
+social:
+  - title: github
+    url: https://github.com/CaribThemes
+  - title: twitter
+    url: https://twitter.com/MATsxm
+  - title: paper-plane-o
+    url: mailto:contact@caribthemes.io
+  - title: desktop
+    url: https://caribthemes.io
