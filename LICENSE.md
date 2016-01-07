@@ -13,7 +13,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## The WTFPL License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE<br>
-Version 2, December 2004
+Version 2
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
 
