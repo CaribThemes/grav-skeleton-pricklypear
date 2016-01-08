@@ -1,13 +1,13 @@
-name: Prickly Pear
-version: 1.0.1
+name: Prickly Pear Skeleton
+version: 1.0.0
 description: "A FREE simple single page by CaribThemes inspired by Fractal by HTML5up."
 icon: paw
 author:
   name: MATsxm for CaribThemes
-  email: mat@idimweb.com
-  url: http://idimweb.com
-homepage: https://github.com/CaribThemes/grav-theme-pricklypear
-demo:
+  email: contact@caribthemes.io
+  url: http://caribthemes.io
+homepage: https://github.com/CaribThemes/grav-skeleton-pricklypear
+demo: http://demo.caribthemes.io/pricklypear
 keywords: theme, responsive, html5, css3, design, onepage
 bugs: https://github.com/CaribThemes/grav-theme-pricklypear/issues
 license: MIT
