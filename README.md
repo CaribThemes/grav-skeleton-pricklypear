@@ -1,5 +1,6 @@
 # Prickly Pear Skeleton for the CMS Grav
 
+[![GitHub version](https://badge.fury.io/gh/CaribThemes%2Fgrav-skeleton-pricklypear.svg)](https://badge.fury.io/gh/CaribThemes%2Fgrav-skeleton-pricklypear)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > **Prickly Pear** is a **FREE** simple single page responsive theme ported by [**CaribThemes**](https://github.com/CaribThemes) for the [**Grav**](http://getgrav.org) CMS and based on Fractal by HTML5up.
