@@ -75,4 +75,4 @@ For contact form configuration instructions please refer to [official documentat
 
 >>Note that @Sandra97 has never been involved in the CSS excepted for having killed few _!important;_ :stuck_out_tongue:
 
-[CaribThemes](https://caribthemes.io) free web ressources is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
+[CaribThemes](https://caribthemes.io) free web resources is proudly brought to you by [IDIM<em>web</em>.com](http://idimweb.com)
