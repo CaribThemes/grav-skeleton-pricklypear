@@ -16,6 +16,7 @@
 * [Features](#features)
 * [Views](#supported-page-templates)
 * [Installation](#installation)
+* [Showcase](#showcase)
 * [Support & Bugs](#support--bugs)
 * [Credits](#credits)
 
@@ -60,6 +61,9 @@ To install **just** the theme:
 
 <!--#### Contact Form Configuration
 For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.-->
+## Showcase
+You want to share your site build with Sabar?
+Feel free to add your site here...
 
 ## Support & Bugs
 * If you need a support please go to the dedicated [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
